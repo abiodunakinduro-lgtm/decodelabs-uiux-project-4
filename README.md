@@ -51,15 +51,7 @@ Core UI Foundation:
 
 Living Interactive Experience: 
 
-*Splash → Home → Search → Listings
-                           ↓
-                     Product Detail
-                           ↓
-                         Cart
-                           ↓
-                       Checkout
-                           ↓
-                     Order Success*
+*Splash → Home → Search → Listings → Product Detail → Cart → Checkout → Order Success*
 
 The project evolved from designing individual screens to creating a complete interactive user experience.
 
@@ -106,27 +98,7 @@ Users can switch between Home and Office addresses and select a payment method b
 
 ## 🧭 Happy Path
 
-Discover
-   ↓
-Search
-   ↓
-Browse
-   ↓
-View Product
-   ↓
-Add to Cart
-   ↓
-Adjust Quantity
-   ↓
-Review Cart
-   ↓
-Select Delivery
-   ↓
-Select Payment
-   ↓
-Place Order
-   ↓
-Order Success
+Discover → Search → Browse → View Product → Add to Cart → Adjust Quantity → Review Cart → Select Delivery → Select Payment → Place Order → Order Success
 
 
 ## 🎨 Design Direction
