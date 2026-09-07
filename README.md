@@ -26,32 +26,32 @@ The goal was to turn the static interface from Project 03 into a connected and i
 
 The prototype demonstrates:
 
-* •  Smooth navigation and transitions
-* •  Smart Animate interactions
-* •  Micro-interactions and system feedback
-* •  Product quantity controls
-* •  Add-to-cart feedback
-* •  Cart and order summary updates
-* •  Delivery address selection
-* •  Payment selection
-* •  Complete checkout and order success flow
+* Smooth navigation and transitions
+* Smart Animate interactions
+* Micro-interactions and system feedback
+* Product quantity controls
+* Add-to-cart feedback
+* Cart and order summary updates
+* Delivery address selection
+* Payment selection
+* Complete checkout and order success flow
 
 
 ## 🔄 Project 03 → Project 04
 
 **Project 03**
 
-* Core UI Foundation:
+Core UI Foundation:
 
-Splash
-Listings
-Product Detail
+* Splash
+* Listings
+* Product Detail
 
 **Project 04**
 
-* Living Interactive Experience: 
+Living Interactive Experience: 
 
-Splash → Home → Search → Listings
+*Splash → Home → Search → Listings
                            ↓
                      Product Detail
                            ↓
@@ -59,7 +59,7 @@ Splash → Home → Search → Listings
                            ↓
                        Checkout
                            ↓
-                     Order Success
+                     Order Success*
 
 The project evolved from designing individual screens to creating a complete interactive user experience.
 
@@ -106,7 +106,27 @@ Users can switch between Home and Office addresses and select a payment method b
 
 ## 🧭 Happy Path
 
-*Discover → Search → Browse → View Product → Add to Cart → Adjust Quantity → Review Cart → Select Delivery → Select Payment → Place Order → Order Success*
+Discover
+   ↓
+Search
+   ↓
+Browse
+   ↓
+View Product
+   ↓
+Add to Cart
+   ↓
+Adjust Quantity
+   ↓
+Review Cart
+   ↓
+Select Delivery
+   ↓
+Select Payment
+   ↓
+Place Order
+   ↓
+Order Success
 
 
 ## 🎨 Design Direction
@@ -120,7 +140,9 @@ The interface uses clear hierarchy and natural visual cues to support an easy gr
 
 ## 🛠️ Tools
 
-**Figma:-** *Auto Layout, Components & Variants, Smart Animate, Interactive Components, Prototype Transitions, Overlays, State-Based Prototyping*
+**Figma:-** 
+
+Auto Layout, Components & Variants, Smart Animate, Interactive Components, Prototype Transitions, Overlays, State-Based Prototyping 
 
 
 ## 🚀 Project Outcome
@@ -129,12 +151,12 @@ Project 04 transformed the Project 03 interface into a complete high-fidelity in
 
 The project strengthened my skills in:
 
-•  Interactive user flows
-•  Micro-interactions
-•  Interface states
-•  Motion and transitions
-•  Feedback systems
-•  E-commerce user journeys
+* Interactive user flows
+* Micro-interactions
+* Interface states
+* Motion and transitions
+* Feedback systems
+* E-commerce user journeys
 
 **Key Takeaway:**
 
