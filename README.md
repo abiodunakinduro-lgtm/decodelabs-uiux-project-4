@@ -9,7 +9,7 @@ This project continues from Project 03, where the core interface was established
 
 ## 🔗 Design Board
 
- ▶️ View Interactive Figma Prototype ↗ 
+ ▶️ (View Interactive Figma Prototype ↗)(https://www.figma.com/proto/DhjHiQilYMWIOs78aUyewj/Project-4--?page-id=0%3A1&node-id=18-1662&viewport=213%2C-1018%2C0.18&t=4LSkyP2bXSLpGAsl-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=18%3A1662)
 
 
 > **Best experienced as a mobile prototype.**
@@ -17,7 +17,7 @@ This project continues from Project 03, where the core interface was established
 
 **📸 Project Preview**
 
-![Fresh From the Earth Project Preview](assets/project-preview.png)
+ ▶️ (View project preview ↗)(https://github.com/abiodunakinduro-lgtm/decodelabs-uiux-project-4/blob/main/project-preview.png)
 
 
 ## 🎯 Project Goal
@@ -136,9 +136,11 @@ Good interaction design is not just about making interfaces move — it is about
 
 
 ## 🔗 Links
-**•  Figma Prototype:**  View Interactive Figma Prototype ↗
+**•  Figma Prototype:**   ▶️ (View Interactive Figma Prototype ↗)(https://www.figma.com/proto/DhjHiQilYMWIOs78aUyewj/Project-4--?page-id=0%3A1&node-id=18-1662&viewport=213%2C-1018%2C0.18&t=4LSkyP2bXSLpGAsl-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=18%3A1662)
 
-**•  Project Preview:** View project-preview.png) ↗
+
+**•  Project Preview:**   ▶️ (View project preview ↗)(https://github.com/abiodunakinduro-lgtm/decodelabs-uiux-project-4/blob/main/project-preview.png)
+
 
 
 ## 📌 👨‍💻 Designer
