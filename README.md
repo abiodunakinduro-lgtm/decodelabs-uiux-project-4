@@ -144,6 +144,7 @@ Good interaction design is not just about making interfaces move — it is about
 ## 📌 👨‍💻 Designer
 
 **Akinduro Abiodun**
+
 UI/UX Designer intern 
 
 
